@@ -1,0 +1,15 @@
+v (m/s) | cubic (kW) | tabulated (kW)
+      3 |        0.0 |            0.0
+      4 |        0.4 |            0.6
+      5 |        1.2 |            1.6
+      6 |        2.2 |            3.0
+      7 |        3.7 |            4.9
+      8 |        5.7 |            7.3
+      9 |        8.3 |           10.2
+     10 |       11.4 |           13.5
+     11 |       15.3 |           16.8
+     12 |       20.0 |           19.2
+     13 |       20.0 |           20.0
+Annual energy of one turbine at the case-study site (hub-height wind of Chapter 9):
+cubic 17686 kWh (capacity factor 10.1 %) | tabulated 22480 kWh (12.8 %) | difference -21.3 %
+Mean hub-height wind speed: 4.88 m/s

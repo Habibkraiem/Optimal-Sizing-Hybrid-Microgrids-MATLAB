@@ -1,0 +1,38 @@
+=== Microgrid sizing book: code tests ===
+
+PASS  PSO on sphere (f < 1e-4)
+PASS  PSO on Rastrigin D=5 (f < 5)
+PASS  GA on sphere (f < 1)
+PASS  GWO on sphere (f < 0.0001)
+PASS  RDA on sphere (f < 1)
+PASS  Data file: 8760 rows and required columns
+PASS  PV model (STC and night)
+PASS  Wind model (cut-in, rated, cut-out)
+PASS  Battery SOC window
+PASS  Smart charging
+PASS  Annual energy balance closes
+PASS  SOC within bounds all year
+PASS  Empty design: LPSP = 100 %
+PASS  Huge design: LPSP < 1 %
+PASS  evaluate_design (finite NPC and LCOE)
+PASS  component_npc (no replacement, no salvage)
+       one fitness evaluation takes about 0.256 s
+       -> 6,000 evaluations take about 25.6 min
+PASS  fitness runs
+PASS  PSO on sizing problem (300 evaluations)
+PASS  GA on sizing problem (300 evaluations)
+PASS  GWO on sizing problem (300 evaluations)
+PASS  RDA on sizing problem (300 evaluations)
+SKIP  IEEE 33-bus base case: MATPOWER not on the path
+PASS  Two-state availability close to MTTF/(MTTF+MTTR)
+PASS  EV sessions: after arrival, before departure, E_del <= E_req, profile = sum
+PASS  Energy audit residuals ~ 0
+PASS  Vehicle-level charger check (10 ok, 8 short)
+PASS  POA irradiance (tilt 31 deg: x1.077)
+PASS  Battery self-discharge stays in [SOCmin, SOCmax]
+PASS  Energy audit closes with self-discharge (sigma > 0)
+PASS  Availability: fractions in [0,1], short repairs kept
+PASS  simulate_year_av (all up = simulate_year, per-turbine masks)
+PASS  perturb and sample_costs
+
+=== 31 passed, 0 failed ===

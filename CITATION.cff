@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the book and this software version."
+title: "MicrogridSizing: MATLAB code for Optimal Sizing of Hybrid Microgrids with MATLAB"
+version: 1.0.0
+date-released: 2026-11-03
+license: MIT
+type: software
+authors:
+  - family-names: Kraiem
+    given-names: Habib
+    affiliation: "Center for Scientific Research and Entrepreneurship, Northern Border University, Arar, Saudi Arabia"
+repository-code: "https://github.com/Habibkraiem/Optimal-Sizing-Hybrid-Microgrids-MATLAB"
+keywords:
+  - MATLAB
+  - microgrid
+  - hybrid renewable energy system
+  - particle swarm optimization
+  - metaheuristics
+  - battery energy storage
+  - electric vehicle charging
+  - IEEE 33-bus
+preferred-citation:
+  type: book
+  title: "Optimal Sizing of Hybrid Microgrids with MATLAB: PV, Wind, Battery and EV Charging Stations Solved with PSO and Metaheuristics, Step by Step"
+  authors:
+    - family-names: Kraiem
+      given-names: Habib
+  year: 2026
+  edition: "1"

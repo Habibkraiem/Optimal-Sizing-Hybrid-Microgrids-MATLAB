@@ -1,0 +1,15 @@
+w_NPC = 0.20 done: best 0.9552, mean 0.9552, std 0.0000
+w_NPC = 0.10 done: best 0.9140, mean 0.9181, std 0.0100
+w_NPC = 0.00 done: best 0.7506, mean 0.7507, std 0.0002
+Run time: 45.7 min
+
+w_NPC  | PV kW   bus    | BESS kWh  bus    | N_ch  bus    | WT     | NPC USD   | dLoss % | Vmin noon   | Vmax noon  
+0.33   | 102.9   18     | 0.0       32     | 8     2      | 0      | 393248    | 2.3     | 0.9491      | 1.0000     
+         battery power 0.0 kW | LPSP 0.34 % | VD 96.8 % of base | July-day losses 1699 kWh (base 1746)
+0.20   | 272.0   18     | 0.0       33     | 8     2      | 0      | 448512    | 5.4     | 0.9509      | 1.0000     
+         battery power 0.0 kW | LPSP 0.34 % | VD 92.0 % of base | July-day losses 1633 kWh (base 1746)
+0.10   | 906.6   15     | 0.0       8      | 8     2      | 0      | 702335    | 12.3    | 0.9571      | 1.0000     
+         battery power 0.0 kW | LPSP 0.34 % | VD 79.0 % of base | July-day losses 1485 kWh (base 1746)
+0.00   | 1500.0  13     | 839.1     17     | 27    19     | 10     | 3357592   | 16.8    | 0.9632      | 1.0000     
+         battery power 113.2 kW | LPSP 0.00 % | VD 66.9 % of base | July-day losses 1405 kWh (base 1746)
+Base case at 12:00 on 15 July: Vmin 0.9459 p.u.

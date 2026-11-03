@@ -1,0 +1,8 @@
+Base case: peak losses 202.7 kW, Vmin 0.9131 p.u. at bus 18, annual losses 421 MWh
+PSO done: best 0.9541, mean 0.9541, std 0.0000
+RDA done: best 0.9541, mean 0.9552, std 0.0018
+Run time: 45.6 min
+PSO best: PV 102.9 kW @ bus 18 | WT 0 @ bus 12 | BESS 0.0 kWh / 0.0 kW @ bus 32 | EVCS 8 x 7 kW @ bus 2
+   NPC 393248 USD | annual losses 412 MWh (2.3 % less than base) | peak-hour losses 202.9 kW | Vmin 0.9131 @ bus 18
+RDA best: PV 108.4 kW @ bus 18 | WT 0 @ bus 26 | BESS 0.0 kWh / 0.0 kW @ bus 27 | EVCS 8 x 7 kW @ bus 2
+   NPC 394507 USD | annual losses 411 MWh (2.4 % less than base) | peak-hour losses 202.9 kW | Vmin 0.9131 @ bus 18

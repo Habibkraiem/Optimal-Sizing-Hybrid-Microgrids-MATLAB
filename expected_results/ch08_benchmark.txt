@@ -1,0 +1,15 @@
+D = 10, budget 6000 evaluations, 20 runs, seeds 1..20
+
+Sphere (optimum 0)
+Alg  |       best |     median |       mean |      worst
+PSO  |   8.51e-05 |   0.000357 |   0.000549 |    0.00221
+GA   |        6.6 |       21.7 |       22.7 |       42.7
+GWO  |   2.15e-26 |   6.46e-25 |   1.09e-22 |   2.04e-21
+RDA  |       31.8 |       53.2 |       52.2 |       75.1
+
+Rastrigin (optimum 0)
+Alg  |       best |     median |       mean |      worst
+PSO  |       4.98 |        7.7 |       8.69 |       17.9
+GA   |       11.3 |       18.8 |       20.1 |       33.2
+GWO  |          0 |   2.13e-14 |      0.286 |       2.06
+RDA  |       17.2 |       30.1 |       30.3 |       39.1

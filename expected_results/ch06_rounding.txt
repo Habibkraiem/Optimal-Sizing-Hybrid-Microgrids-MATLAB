@@ -1,0 +1,8 @@
+Seed | rounding inside (main.m) | continuous optimum | continuous then rounded | N_wt, N_ch (continuous)
+   1 |                  1067394 |            1067325 |                 1067839 | -0.49, 9.87
+   2 |                  1067426 |            1067499 |                 1067848 | -0.49, 9.91
+   3 |                  1067540 |            1067320 |                 1067713 | -0.49, 9.90
+   4 |                  1067404 |            1067300 |                 1067903 | -0.49, 9.85
+   5 |                  1067420 |            1067302 |                 1067814 | -0.49, 9.87
+Mean |                  1067437 |            1067349 |                 1067823
+Rounded designs violating the LPSP limit (fitness above 1e7 USD): 0 of 5

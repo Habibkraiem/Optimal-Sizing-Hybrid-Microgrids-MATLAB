@@ -1,0 +1,23 @@
+Reference (best mean): PSO
+PSO vs GA: p = 3.02e-11, Holm-adjusted p = 9.06e-11
+PSO vs GWO: p = 7.38e-10, Holm-adjusted p = 7.38e-10
+PSO vs RDA: p = 3.02e-11, Holm-adjusted p = 9.06e-11
+Kruskal-Wallis p = 4.14e-19
+Mean rank PSO = 16.60 (of 120 results)
+Mean rank GA = 81.43 (of 120 results)
+Mean rank GWO = 50.20 (of 120 results)
+Mean rank RDA = 93.77 (of 120 results)
+A12 PSO vs GA = 1.000 | median gap 0.171 % of NPC (1829 USD)
+A12 PSO vs GWO = 0.963 | median gap 0.048 % of NPC (512 USD)
+A12 PSO vs RDA = 1.000 | median gap 0.239 % of NPC (2548 USD)
+PSO: best 1067385 | median 1067409 | IQR 1067394-1067432 | worst 1067540 | mean 1067424 | std 41
+GA: best 1067549 | median 1069238 | IQR 1068500-1070035 | worst 1072127 | mean 1069467 | std 1258
+GWO: best 1067404 | median 1067921 | IQR 1067679-1068276 | worst 1069423 | mean 1068035 | std 504
+RDA: best 1067920 | median 1069956 | IQR 1069119-1072259 | worst 1117516 | mean 1074060 | std 10828
+Irradiation monthly mean: min 3.13 (December), max 8.14 (July)
+Hub wind monthly mean: min 4.27 (November), max 5.79 (March)
+Temperature monthly mean: min 8.0 (January), max 35.2 (August)
+Daily load: mean 709, min 500, max 945 kWh/day
+Daily EV: mean 335, min 253, max 433 kWh/day
+Peak load 64.7 kW, peak EV 70.0 kW
+Wind shear alpha = 0.269

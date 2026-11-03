@@ -1,0 +1,4 @@
+Design: PV 499.0 kW, 0 WT, battery 1142.2 kWh / 132.8 kW, 10 chargers (islanded)
+No failures      : LOLE 143 h, EENS 3809 kWh, LPSP 1.000 % (EV demand within charger limit)
+With failures    : LOLE mean 178 h (5th-95th 143-304), EENS mean 5370 kWh (95th 10890), LPSP mean 1.410 %
+P(LPSP > 1 %) with failures: 48.0 % of years | 1000 simulated years

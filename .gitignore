@@ -1,0 +1,11 @@
+# MATLAB
+*.asv
+*.mex*
+slprj/
+# Results produced by running the scripts (compare with expected_results/)
+results/
+results_v1/
+results_v2/
+# OS
+.DS_Store
+Thumbs.db

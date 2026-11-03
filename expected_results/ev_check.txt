@@ -1,0 +1,11 @@
+Sessions: 3650 (10 vehicles x 365 days)
+Energy requested: 122258.6 kWh | delivered: 122256.2 kWh | in hourly profile: 122256.2 kWh
+Delivered - profile: -2.91e-11 kWh | requested - delivered: 2.4 kWh (sessions limited by dwell time)
+Checks: charging after arrival 1, before departure 1, E_del <= E_req 1, profile = sum of sessions 1
+Sessions not fully charged before departure: 1
+Arrival: min 12.07 h, max 23.72 h | departure: min 5.00 h, max 9.99 h (next day)
+Dwell time: min 6.0 h, mean 13.5 h | energy per session: min 20.0, mean 33.5, max 46.7 kWh
+Max vehicles plugged in at once: 10 | max charging at once: 10
+Peak EV power: 70.0 kW | daily EV energy: mean 335 kWh
+Old profile (wrapped days): annual 122.0 MWh, peak 70.0 kW, energy 00-06 h 9.3 %
+New profile (chronological): annual 122.3 MWh, peak 70.0 kW, energy 00-06 h 9.2 %
