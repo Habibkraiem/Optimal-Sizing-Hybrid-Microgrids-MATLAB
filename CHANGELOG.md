@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.1 – Zenodo archive (2026-11-03)
+
+Same code as v1.0.0. Released so that Zenodo archives the book edition and assigns a DOI:
+10.5281/zenodo.23921752 (all versions), 10.5281/zenodo.23921753 (v1.0.1). README and CITATION.cff now carry the DOI.
+
 ## v1.0.0 – book edition (2026-11-03)
 
 First public release. This is the exact version that produced every number and figure printed in the first

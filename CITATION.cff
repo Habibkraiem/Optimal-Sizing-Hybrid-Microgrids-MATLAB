@@ -1,7 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the book and this software version."
 title: "MicrogridSizing: MATLAB code for Optimal Sizing of Hybrid Microgrids with MATLAB"
-version: 1.0.0
+version: 1.0.1
+doi: 10.5281/zenodo.23921752
 date-released: 2026-11-03
 license: MIT
 type: software
@@ -9,6 +10,13 @@ authors:
   - family-names: Kraiem
     given-names: Habib
     affiliation: "Center for Scientific Research and Entrepreneurship, Northern Border University, Arar, Saudi Arabia"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23921752
+    description: "Concept DOI (all versions)"
+  - type: doi
+    value: 10.5281/zenodo.23921753
+    description: "Version v1.0.1"
 repository-code: "https://github.com/Habibkraiem/Optimal-Sizing-Hybrid-Microgrids-MATLAB"
 keywords:
   - MATLAB

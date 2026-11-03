@@ -1,11 +1,13 @@
 # Optimal Sizing of Hybrid Microgrids with MATLAB – companion code (v1.0)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23921752.svg)](https://doi.org/10.5281/zenodo.23921752)
+
 Companion code for the book *Optimal Sizing of Hybrid Microgrids with MATLAB: PV, Wind, Battery and EV Charging
 Stations Solved with PSO and Metaheuristics, Step by Step* (Habib Kraiem, first edition, 2026).
-This repository's release **v1.0.0** is the exact version that produced every number and figure printed in the book.
+This repository's releases **v1.0.0** and **v1.0.1** (identical code) are the exact version that produced every number and figure printed in the book.
 
 - **Book:** available on Amazon (paperback and Kindle). <!-- add the Amazon link after publication -->
-- **Archived version and DOI:** Zenodo, DOI to be added after the first release. <!-- add the DOI badge -->
+- **Archived version and DOI:** Zenodo, [10.5281/zenodo.23921752](https://doi.org/10.5281/zenodo.23921752) (all versions; v1.0.1 is [10.5281/zenodo.23921753](https://doi.org/10.5281/zenodo.23921753)).
 - **Errata:** see [ERRATA.md](ERRATA.md); report errors through the Issues tab.
 - **Cite:** see [CITATION.cff](CITATION.cff) (GitHub shows a "Cite this repository" button).
 
