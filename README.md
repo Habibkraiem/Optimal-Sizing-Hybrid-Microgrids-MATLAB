@@ -6,7 +6,7 @@ Companion code for the book *Optimal Sizing of Hybrid Microgrids with MATLAB: PV
 Stations Solved with PSO and Metaheuristics, Step by Step* (Habib Kraiem, first edition, 2026).
 This repository's release **v1.0.1** is the exact version that produced every number and figure printed in the book.
 
-- **Book:** available on Amazon (paperback and Kindle). <!-- add the Amazon link after publication -->
+- **Book:** on Amazon, [paperback](https://www.amazon.com/dp/B0HQB1H34Q) (ISBN 979-8-16766-182-0) and [Kindle eBook](https://www.amazon.com/dp/B0HQ87RSPS).
 - **Archived version and DOI:** Zenodo, [10.5281/zenodo.23921752](https://doi.org/10.5281/zenodo.23921752) (all versions; v1.0.1 is [10.5281/zenodo.23921753](https://doi.org/10.5281/zenodo.23921753)).
 - **Errata:** see [ERRATA.md](ERRATA.md); report errors through the Issues tab.
 - **Cite:** see [CITATION.cff](CITATION.cff) (GitHub shows a "Cite this repository" button).
